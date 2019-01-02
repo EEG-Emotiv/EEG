@@ -6,7 +6,7 @@ This requires several requirements, namely:
 1. Python 2.xxx
 2. Emokit (https://github.com/openyou/emokit)
 3. sklearn
-4. cellphone
+4. hpelm
 5. pywt
 6. Scipy
 7. numpy
