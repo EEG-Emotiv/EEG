@@ -14,7 +14,7 @@ This requires several requirements, namely:
 9. PyQt4
 
 GUI display:
-![Display](https://raw.githubusercontent.com/Skripsi-Maydiana/EEG/master/Hasil%20UI/UI.PNG)
+![Display](https://raw.githubusercontent.com/EEG-Emotiv/EEG/master/Hasil%20UI/UI.PNG)
 
 Contributions by
 - Aji Sapta Pramulen (https://github.com/ajisapta) - GUI
